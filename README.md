@@ -215,5 +215,3 @@ This analysis can help:
 If you found this project useful, consider giving it a ⭐!
 
 ---
-<img width="1244" height="740" alt="Screenshot 2026-05-03 at 10 27 47 PM" src="https://github.com/user-attachments/assets/aea12d6d-b54d-4818-877b-e030c18ad0a7" />
-<img width="1244" height="696" alt="Screenshot 2026-05-03 at 10 26 06 PM" src="https://github.com/user-attachments/assets/6845b55f-454b-4201-b4a4-753557ccdc66" />
