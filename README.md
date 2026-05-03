@@ -2,7 +2,7 @@
 
 ### *Data-Driven Insights for Customer Behavior, Segmentation, and Business Growth*
 
----<img width="1241" height="741" alt="Screenshot 2026-05-03 at 10 28 31 PM" src="https://github.com/user-attachments/assets/615499d0-d006-4181-8c1d-41f0c0652ed1" />
+<img width="1241" height="741" alt="Screenshot 2026-05-03 at 10 28 31 PM" src="https://github.com/user-attachments/assets/615499d0-d006-4181-8c1d-41f0c0652ed1" />
 
 
 ## 🧠 Abstract
